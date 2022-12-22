@@ -1,5 +1,0 @@
-{
-    "require": {
-        "jms/serializer-bundle": "^5.0"
-    }
-}
